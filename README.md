@@ -5,7 +5,6 @@ Bu uygulama, Excel dosyasını açarak belirlediğiniz MHz aralığını filtrel
 ## Geliştirici
 
 **Bilal CİFCİ**  
-E-posta: cifci.bilal@outlook.com
 
 ## Kullanım
 
